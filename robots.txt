@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://open-token-review.github.io/sitemap.xml
